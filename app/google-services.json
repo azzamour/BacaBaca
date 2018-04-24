@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851258767862",
+    "firebase_url": "https://bacabaca-47a9b.firebaseio.com",
+    "project_id": "bacabaca-47a9b",
+    "storage_bucket": "bacabaca-47a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851258767862:android:8d0539d3345d046f",
+        "android_client_info": {
+          "package_name": "com.kleinkarasu.bacabaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851258767862-rgv2a1iq1nq5agjr5rc6svognbb4l3cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kleinkarasu.bacabaca",
+            "certificate_hash": "3a829babd085569ede87c2a3d87239c57b2c7892"
+          }
+        },
+        {
+          "client_id": "851258767862-ip2947ngic4uguff12oqqgbucoknim05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoO5iKHqx-CkGjG6ZPdrlb3DtfZuJKXQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851258767862-ip2947ngic4uguff12oqqgbucoknim05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
